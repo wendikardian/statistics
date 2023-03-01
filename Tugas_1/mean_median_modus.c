@@ -12,6 +12,7 @@ float mean(int arr[], int n)
     return sum / n;
 }
 
+
 float median(int arr[], int n)
 {
     int sorted[n];
